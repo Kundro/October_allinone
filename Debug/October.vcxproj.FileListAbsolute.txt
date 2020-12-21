@@ -1,0 +1,2 @@
+D:\Visual\Projects\October\Debug\October.exe
+D:\Visual\Projects\October\Debug\October.pdb
